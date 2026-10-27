@@ -1,0 +1,6 @@
+@SerializationSecurityApp_HostAddress = http://localhost:5125
+
+GET {{SerializationSecurityApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
